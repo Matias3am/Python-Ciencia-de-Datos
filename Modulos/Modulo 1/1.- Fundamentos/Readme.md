@@ -1,4 +1,4 @@
-# 🐍 Módulo 1: Fundamentos de Python
+# 🐍 Módulo 1.1: Fundamentos de Python
 
 > **Objetivo**: Al finalizar este módulo, entenderás qué es Python, para qué se usa, sus características principales, y conocerás los tipos de datos más comunes, su uso y su peso en memoria. Este es el primer paso para convertirte en desarrollador/a con Python.
 
