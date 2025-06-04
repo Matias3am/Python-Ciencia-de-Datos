@@ -41,6 +41,42 @@ Un programa en Python es simplemente un archivo de texto con extensión `.py` qu
 print("¡Hola, mundo!")
 ```
 
+## 🛠️ ¿Cómo escribir y ejecutar un programa en Python?
+### ✍️ 1. Escribir el código
+Puedes escribir código Python en cualquier editor de texto (como Notepad, VS Code, Sublime Text) o en entornos especializados como Jupyter Notebook o PyCharm.
+
+* Abre tu editor favorito.
+* Escribe tu código, por ejemplo:
+  
+```python
+print("¡Hola, mundo!")
+```
+
+> Guarda el archivo con la extensión .py, por ejemplo: saludo.py.
+  
+### ▶️ 2. Ejecutar el código (compilar no es necesario)
+Python es un lenguaje interpretado, lo que significa que no necesitas compilar el código antes de ejecutarlo. Solo necesitas tener Python instalado en tu sistema.
+
+En la terminal o consola:
+* Abre la terminal (CMD en Windows, Terminal en macOS/Linux).
+* Navega hasta la carpeta donde guardaste el archivo.
+* Ejecuta el archivo con el comando:
+  
+```python
+python saludo.py
+```
+
+> Nota: En algunos sistemas puede ser python3 en lugar de python  o py a secas.
+
+### 🧪 ¿Cómo saber si tienes Python instalado?
+Escribe en la terminal:
+
+```terminal
+python --version
+```
+
+Si ves algo como Python 3.X.X, ¡ya estás listo para comenzar!
+
 ## 🧱 Tipos de Datos en Python
 
 Python tiene varios tipos de datos básicos. Cada uno representa una forma diferente de almacenar y manipular información.
